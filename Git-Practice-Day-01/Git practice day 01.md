@@ -29,6 +29,8 @@ tags:
 - Git conflict 
 - Git cherry-pick
 
-![Git Exercise 01](attachments/git-exercice-01.png)
-![Git Exercise 02](attachments/git-exercice-02.png)
-![Git Exercise 03](attachments/git-exercice-03.png)
+![Git Exercise 01](attachment/git-exercice-01.png)
+
+![Git Exercise 02](attachment/git-exercice-02.png)
+
+![Git Exercise 03](attachment/git-exercice-03.png)
